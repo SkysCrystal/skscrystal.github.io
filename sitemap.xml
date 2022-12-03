@@ -5,10 +5,13 @@
     <loc>/videos/</loc>
     <lastmod>2022-12-03T22:06:06+08:00</lastmod>
   </url><url>
-    <loc>/videos/test/</loc>
+    <loc>/</loc>
     <lastmod>2022-12-03T22:06:06+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/videos/tt19770970/</loc>
+    <lastmod>2022-12-03T22:06:06+08:00</lastmod>
+  </url><url>
+    <loc>/videos/tt19770970-test/</loc>
     <lastmod>2022-12-03T22:06:06+08:00</lastmod>
   </url><url>
     <loc>/posts/hello-world/</loc>
