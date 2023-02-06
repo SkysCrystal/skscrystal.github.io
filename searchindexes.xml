@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><search><entry><title>My First Post</title><url>/post/my-first-post/</url><categories><category><no value=/></categories><tags><tag><no value=/><tag><no value=/></tags><content type="html">My-first-post
 测试项目自动部署！</content></entry><entry><title>关于 拂风阁</title><url>/about.html</url><categories/><tags/><content type="html">博客记录各种有的没的，欢迎互关~
-博客基于 Hugo 使用主题 hugo-theme-next 该主题有活跃团队维护，主题功能丰富，欢迎一起使用~ IWant</content></entry><entry><title/><url>/post/test/</url><categories/><tags/><content type="html">Hello world</content></entry><entry><title>站点示例</title><url>/flinks.html</url><categories/><tags/><content type="html">如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
+博客基于 Hugo 使用主题 hugo-theme-next 该主题有活跃团队维护，主题功能丰富，欢迎一起使用~ IWant</content></entry><entry><title>站点示例</title><url>/flinks.html</url><categories/><tags/><content type="html">如想交换本站友情链接，请在评论区留下你的站点信息，格式参考如下：
 - name: 拂风阁 Skys Crystal desc: A website for everything and nothing. avatar: https://skyscrystal.github.io/imgs/hugo_next_avatar.png link: https://skyscrystal.github.io</content></entry></search>
